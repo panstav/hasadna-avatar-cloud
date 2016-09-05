@@ -1,0 +1,20 @@
+#avatarage {
+	position: relative;
+	width: 95vw;
+	height: 95vh;
+	margin: auto;
+}
+
+#avatarage .avatar {
+	position: absolute;
+	border-radius: 50%;
+}
+
+#avatarage .avatar.ball {
+	width: 10px;
+	height: 10px;
+}
+
+#avatarage .avatar img {
+	display: block;
+}
